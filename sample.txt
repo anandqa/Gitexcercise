@@ -1,0 +1,12 @@
+we need to implement iReporter which has onlyh one method 
+
+9) Difference btw Maven & Jenkins (Continout integration)
+
+10) How does we know the build which is deployed in Jenkins is latest or where we can locate in Jenkins for that info
+
+11) what will be the use of multiple POMS in a project
+
+12) MVN - clean install > in Jenkins configurations in order to run the Scripts 
+13) CI vs CD --sepearte team takes care
+14) How to integreate Maven and git hub into Jenkins 
+15) 
